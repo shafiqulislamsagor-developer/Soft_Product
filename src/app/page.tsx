@@ -1,3 +1,3 @@
 export default function Home() {
-  return <div>welcome bye</div>;
+  return <div>welcome commit</div>;
 }
